@@ -8,7 +8,7 @@
 - 竖屏整体旋转 90° 全景铺满（同前两页），横屏 cover 铺满
 - 微微动态：发丝飘动（hair.png 叠层 ±1.6° + 底图已抹发防重影）+ 呼吸缩放 + 视差
 - 流光尘埃 220 颗；按钮为「暂停」和「流光」（尘埃开关）
-- **视频页**：`video.html` + `video.mp4`（9.3 秒循环短片，静音自动播放，点击开声音）
+- **视频页「夜崖寻影」**：`video.html` + `video.mp4`（9.3 秒循环短片，静音自动播放，点击开声音）
   - 立绘页：`https://issaclfl.github.io/WangQuan/`
   - 视频页（NFC 推荐写这个）：`https://issaclfl.github.io/WangQuan/video.html`
 
